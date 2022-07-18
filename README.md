@@ -95,7 +95,7 @@ Requisitos
 Link da branch do projeto no github
 
 ```bash
-https://github.com/astolfovalentim/netflix-server.git
+https://github.com/astolfovalentim/netflix-server-final.git
 ```
 
 > Acesse a pasta do projeto seu terminal:
@@ -115,7 +115,7 @@ $ npm install
 ## Clone
 
 ```bash
-$ git clone https://github.com/astolfovalentim/netflix-server.git
+$ git clone https://github.com/astolfovalentim/netflix-server-final.git
 ```
 
 ## Running the app
@@ -148,7 +148,7 @@ $ npm run start:prod
 Todas as rotas estão no swagger
 
 ```bash
-https://netflix-server-back.herokuapp.com/api
+https://netflix-server-final.herokuapp.com/api
 ```
 
 ## PrismaStudio

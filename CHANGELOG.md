@@ -2,7 +2,7 @@
 
 # Changelog
 
-Aqui voce encontra todas as atualizacoes de versao da aplicacao, sempre disponivel no repositorio do github: https://github.com/astolfovalentim/netflix-server-final.
+Aqui voce encontra todas as atualizacoes de versao da aplicacao, sempre disponivel no repositorio do github: https://github.com/astolfovalentim/netflix-server-final.git.
 
 ## [1.1.0] - 2022-07-11
 
